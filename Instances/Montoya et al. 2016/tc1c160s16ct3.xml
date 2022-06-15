@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+  <info>
+    <dataset>Montoya et al. 2016</dataset>
+    <name>tc1c160s16ct3</name>
+  </info>
+  <network>
+    <nodes>
+      <node id="0" type="0">
+        <cx>89.65</cx>
+        <cy>37.79</cy>
+      </node>
+      <node id="1" type="1">
+        <cx>59.0</cx>
+        <cy>10.19</cy>
+      </node>
+      <node id="2" type="1">
+        <cx>56.77</cx>
+        <cy>7.66</cy>
+      </node>
+      <node id="3" type="1">
+        <cx>62.17</cx>
+        <cy>14.91</cy>
+      </node>
+      <node id="4" type="1">
+        <cx>44.84</cx>
+        <cy>106.67</cy>
+      </node>
+      <node id="5" type="1">
+        <cx>44.31</cx>
+        <cy>104.57</cy>
+      </node>
+      <node id="6" type="1">
+        <cx>40.59</cx>
+        <cy>106.1</cy>
+      </node>
+      <node id="7" type="1">
+        <cx>8.22</cx>
+        <cy>31.47</cy>
+      </node>
+      <node id="8" type="1">
+        <cx>5.91</cx>
+        <cy>30.27</cy>
+      </node>
+      <node id="9" type="1">
+        <cx>12.54</cx>
+        <cy>29.1</cy>
+      </node>
+      <node id="10" type="1">
+        <cx>110.62</cx>
+        <cy>88.01</cy>
+      </node>
+      <node id="11" type="1">
+        <cx>115.3</cx>
+        <cy>89.8</cy>
+      </node>
+      <node id="12" type="1">
+        <cx>111.12</cx>
+        <cy>86.16</cy>
+      </node>
+      <node id="13" type="1">
+        <cx>23.91</cx>
+        <cy>55.82</cy>
+      </node>
+      <node id="14" type="1">
+        <cx>23.22</cx>
+        <cy>52.61</cy>
+      </node>
+      <node id="15" type="1">
+        <cx>27.1</cx>
+        <cy>54.46</cy>
+      </node>
+      <node id="16" type="1">
+        <cx>56.86</cx>
+        <cy>55.44</cy>
+      </node>
+      <node id="17" type="1">
+        <cx>55.94</cx>
+        <cy>61.08</cy>
+      </node>
+      <node id="18" type="1">
+        <cx>51.78</cx>
+        <cy>54.26</cy>
+      </node>
+      <node id="19" type="1">
+        <cx>50.58</cx>
+        <cy>71.82</cy>
+      </node>
+      <node id="20" type="1">
+        <cx>55.02</cx>
+        <cy>75.76</cy>
+      </node>
+      <node id="21" type="1">
+        <cx>54.24</cx>
+        <cy>75.42</cy>
+      </node>
+      <node id="22" type="1">
+        <cx>31.06</cx>
+        <cy>42.89</cy>
+      </node>
+      <node id="23" type="1">
+        <cx>27.74</cx>
+        <cy>41.14</cy>
+      </node>
+      <node id="24" type="1">
+        <cx>28.62</cx>
+        <cy>43.21</cy>
+      </node>
+      <node id="25" type="1">
+        <cx>84.52</cx>
+        <cy>54.3</cy>
+      </node>
+      <node id="26" type="1">
+        <cx>81.57</cx>
+        <cy>50.61</cy>
+      </node>
+      <node id="27" type="1">
+        <cx>88.99</cx>
+        <cy>57.63</cy>
+      </node>
+      <node id="28" type="1">
+        <cx>17.06</cx>
+        <cy>60.85</cy>
+      </node>
+      <node id="29" type="1">
+        <cx>19.57</cx>
+        <cy>57.5</cy>
+      </node>
+      <node id="30" type="1">
+        <cx>18.72</cx>
+        <cy>65.76</cy>
+      </node>
+      <node id="31" type="1">
+        <cx>6.42</cx>
+        <cy>60.82</cy>
+      </node>
+      <node id="32" type="1">
+        <cx>3.87</cx>
+        <cy>59.27</cy>
+      </node>
+      <node id="33" type="1">
+        <cx>3.81</cx>
+        <cy>56.32</cy>
+      </node>
+      <node id="34" type="1">
+        <cx>46.35</cx>
+        <cy>19.47</cy>
+      </node>
+      <node id="35" type="1">
+        <cx>48.54</cx>
+        <cy>21.83</cy>
+      </node>
+      <node id="36" type="1">
+        <cx>42.88</cx>
+        <cy>18.24</cy>
+      </node>
+      <node id="37" type="1">
+        <cx>73.29</cx>
+        <cy>4.48</cy>
+      </node>
+      <node id="38" type="1">
+        <cx>75.67</cx>
+        <cy>7.15</cy>
+      </node>
+      <node id="39" type="1">
+        <cx>72.76</cx>
+        <cy>4.28</cy>
+      </node>
+      <node id="40" type="1">
+        <cx>84.84</cx>
+        <cy>78.66</cy>
+      </node>
+      <node id="41" type="1">
+        <cx>84.43</cx>
+        <cy>74.13</cy>
+      </node>
+      <node id="42" type="1">
+        <cx>81.63</cx>
+        <cy>77.55</cy>
+      </node>
+      <node id="43" type="1">
+        <cx>49.56</cx>
+        <cy>28.45</cy>
+      </node>
+      <node id="44" type="1">
+        <cx>51.22</cx>
+        <cy>24.61</cy>
+      </node>
+      <node id="45" type="1">
+        <cx>43.86</cx>
+        <cy>28.97</cy>
+      </node>
+      <node id="46" type="1">
+        <cx>100.71</cx>
+        <cy>28.51</cy>
+      </node>
+      <node id="47" type="1">
+        <cx>95.89</cx>
+        <cy>27.13</cy>
+      </node>
+      <node id="48" type="1">
+        <cx>99.73</cx>
+        <cy>24.95</cy>
+      </node>
+      <node id="49" type="1">
+        <cx>31.86</cx>
+        <cy>20.0</cy>
+      </node>
+      <node id="50" type="1">
+        <cx>36.74</cx>
+        <cy>21.83</cy>
+      </node>
+      <node id="51" type="1">
+        <cx>30.18</cx>
+        <cy>14.83</cy>
+      </node>
+      <node id="52" type="1">
+        <cx>98.21</cx>
+        <cy>12.3</cy>
+      </node>
+      <node id="53" type="1">
+        <cx>95.35</cx>
+        <cy>9.75</cy>
+      </node>
+      <node id="54" type="1">
+        <cx>102.51</cx>
+        <cy>13.59</cy>
+      </node>
+      <node id="55" type="1">
+        <cx>89.24</cx>
+        <cy>37.78</cy>
+      </node>
+      <node id="56" type="1">
+        <cx>89.86</cx>
+        <cy>41.47</cy>
+      </node>
+      <node id="57" type="1">
+        <cx>91.51</cx>
+        <cy>38.69</cy>
+      </node>
+      <node id="58" type="1">
+        <cx>112.6</cx>
+        <cy>57.4</cy>
+      </node>
+      <node id="59" type="1">
+        <cx>115.2</cx>
+        <cy>56.19</cy>
+      </node>
+      <node id="60" type="1">
+        <cx>111.64</cx>
+        <cy>61.63</cy>
+      </node>
+      <node id="61" type="1">
+        <cx>31.06</cx>
+        <cy>109.94</cy>
+      </node>
+      <node id="62" type="1">
+        <cx>30.8</cx>
+        <cy>110.37</cy>
+      </node>
+      <node id="63" type="1">
+        <cx>34.08</cx>
+        <cy>105.54</cy>
+      </node>
+      <node id="64" type="1">
+        <cx>103.56</cx>
+        <cy>65.72</cy>
+      </node>
+      <node id="65" type="1">
+        <cx>104.22</cx>
+        <cy>70.59</cy>
+      </node>
+      <node id="66" type="1">
+        <cx>103.03</cx>
+        <cy>63.79</cy>
+      </node>
+      <node id="67" type="1">
+        <cx>103.45</cx>
+        <cy>86.5</cy>
+      </node>
+      <node id="68" type="1">
+        <cx>100.22</cx>
+        <cy>87.74</cy>
+      </node>
+      <node id="69" type="1">
+        <cx>105.05</cx>
+        <cy>85.47</cy>
+      </node>
+      <node id="70" type="1">
+        <cx>114.85</cx>
+        <cy>70.31</cy>
+      </node>
+      <node id="71" type="1">
+        <cx>117.16</cx>
+        <cy>73.72</cy>
+      </node>
+      <node id="72" type="1">
+        <cx>115.75</cx>
+        <cy>67.82</cy>
+      </node>
+      <node id="73" type="1">
+        <cx>68.11</cx>
+        <cy>67.76</cy>
+      </node>
+      <node id="74" type="1">
+        <cx>73.06</cx>
+        <cy>67.34</cy>
+      </node>
+      <node id="75" type="1">
+        <cx>70.72</cx>
+        <cy>66.42</cy>
+      </node>
+      <node id="76" type="1">
+        <cx>30.98</cx>
+        <cy>6.41</cy>
+      </node>
+      <node id="77" type="1">
+        <cx>31.77</cx>
+        <cy>8.39</cy>
+      </node>
+      <node id="78" type="1">
+        <cx>26.38</cx>
+        <cy>7.88</cy>
+      </node>
+      <node id="79" type="1">
+        <cx>56.53</cx>
+        <cy>33.73</cy>
+      </node>
+      <node id="80" type="1">
+        <cx>55.5</cx>
+        <cy>36.76</cy>
+      </node>
+      <node id="81" type="1">
+        <cx>64.66</cx>
+        <cy>38.61</cy>
+      </node>
+      <node id="82" type="1">
+        <cx>46.39</cx>
+        <cy>118.75</cy>
+      </node>
+      <node id="83" type="1">
+        <cx>87.6</cx>
+        <cy>17.51</cy>
+      </node>
+      <node id="84" type="1">
+        <cx>46.27</cx>
+        <cy>115.21</cy>
+      </node>
+      <node id="85" type="1">
+        <cx>65.98</cx>
+        <cy>43.12</cy>
+      </node>
+      <node id="86" type="1">
+        <cx>72.58</cx>
+        <cy>78.93</cy>
+      </node>
+      <node id="87" type="1">
+        <cx>58.29</cx>
+        <cy>74.39</cy>
+      </node>
+      <node id="88" type="1">
+        <cx>36.51</cx>
+        <cy>118.85</cy>
+      </node>
+      <node id="89" type="1">
+        <cx>76.45</cx>
+        <cy>114.85</cy>
+      </node>
+      <node id="90" type="1">
+        <cx>95.47</cx>
+        <cy>74.65</cy>
+      </node>
+      <node id="91" type="1">
+        <cx>63.69</cx>
+        <cy>48.93</cy>
+      </node>
+      <node id="92" type="1">
+        <cx>17.18</cx>
+        <cy>29.06</cy>
+      </node>
+      <node id="93" type="1">
+        <cx>52.15</cx>
+        <cy>24.48</cy>
+      </node>
+      <node id="94" type="1">
+        <cx>64.67</cx>
+        <cy>19.48</cy>
+      </node>
+      <node id="95" type="1">
+        <cx>59.86</cx>
+        <cy>55.09</cy>
+      </node>
+      <node id="96" type="1">
+        <cx>88.5</cx>
+        <cy>27.45</cy>
+      </node>
+      <node id="97" type="1">
+        <cx>111.35</cx>
+        <cy>114.22</cy>
+      </node>
+      <node id="98" type="1">
+        <cx>53.88</cx>
+        <cy>115.34</cy>
+      </node>
+      <node id="99" type="1">
+        <cx>93.65</cx>
+        <cy>6.04</cy>
+      </node>
+      <node id="100" type="1">
+        <cx>14.94</cx>
+        <cy>3.99</cy>
+      </node>
+      <node id="101" type="1">
+        <cx>111.47</cx>
+        <cy>4.21</cy>
+      </node>
+      <node id="102" type="1">
+        <cx>17.0</cx>
+        <cy>83.36</cy>
+      </node>
+      <node id="103" type="1">
+        <cx>20.48</cx>
+        <cy>9.99</cy>
+      </node>
+      <node id="104" type="1">
+        <cx>0.11</cx>
+        <cy>60.32</cy>
+      </node>
+      <node id="105" type="1">
+        <cx>57.08</cx>
+        <cy>114.65</cy>
+      </node>
+      <node id="106" type="1">
+        <cx>93.06</cx>
+        <cy>93.17</cy>
+      </node>
+      <node id="107" type="1">
+        <cx>105.72</cx>
+        <cy>119.21</cy>
+      </node>
+      <node id="108" type="1">
+        <cx>86.89</cx>
+        <cy>62.41</cy>
+      </node>
+      <node id="109" type="1">
+        <cx>71.69</cx>
+        <cy>45.62</cy>
+      </node>
+      <node id="110" type="1">
+        <cx>80.54</cx>
+        <cy>19.99</cy>
+      </node>
+      <node id="111" type="1">
+        <cx>57.68</cx>
+        <cy>88.59</cy>
+      </node>
+      <node id="112" type="1">
+        <cx>58.49</cx>
+        <cy>46.85</cy>
+      </node>
+      <node id="113" type="1">
+        <cx>16.47</cx>
+        <cy>6.32</cy>
+      </node>
+      <node id="114" type="1">
+        <cx>91.44</cx>
+        <cy>48.69</cy>
+      </node>
+      <node id="115" type="1">
+        <cx>70.28</cx>
+        <cy>70.85</cy>
+      </node>
+      <node id="116" type="1">
+        <cx>65.69</cx>
+        <cy>74.97</cy>
+      </node>
+      <node id="117" type="1">
+        <cx>68.77</cx>
+        <cy>115.22</cy>
+      </node>
+      <node id="118" type="1">
+        <cx>105.62</cx>
+        <cy>33.97</cy>
+      </node>
+      <node id="119" type="1">
+        <cx>43.19</cx>
+        <cy>84.71</cy>
+      </node>
+      <node id="120" type="1">
+        <cx>75.88</cx>
+        <cy>78.94</cy>
+      </node>
+      <node id="121" type="1">
+        <cx>3.44</cx>
+        <cy>103.13</cy>
+      </node>
+      <node id="122" type="1">
+        <cx>15.88</cx>
+        <cy>96.02</cy>
+      </node>
+      <node id="123" type="1">
+        <cx>17.56</cx>
+        <cy>83.17</cy>
+      </node>
+      <node id="124" type="1">
+        <cx>109.27</cx>
+        <cy>34.21</cy>
+      </node>
+      <node id="125" type="1">
+        <cx>109.97</cx>
+        <cy>60.66</cy>
+      </node>
+      <node id="126" type="1">
+        <cx>104.19</cx>
+        <cy>40.72</cy>
+      </node>
+      <node id="127" type="1">
+        <cx>95.26</cx>
+        <cy>78.2</cy>
+      </node>
+      <node id="128" type="1">
+        <cx>17.86</cx>
+        <cy>102.33</cy>
+      </node>
+      <node id="129" type="1">
+        <cx>108.28</cx>
+        <cy>22.01</cy>
+      </node>
+      <node id="130" type="1">
+        <cx>119.71</cx>
+        <cy>23.72</cy>
+      </node>
+      <node id="131" type="1">
+        <cx>59.55</cx>
+        <cy>48.93</cy>
+      </node>
+      <node id="132" type="1">
+        <cx>112.46</cx>
+        <cy>58.59</cy>
+      </node>
+      <node id="133" type="1">
+        <cx>16.28</cx>
+        <cy>46.56</cy>
+      </node>
+      <node id="134" type="1">
+        <cx>78.76</cx>
+        <cy>107.54</cy>
+      </node>
+      <node id="135" type="1">
+        <cx>25.21</cx>
+        <cy>109.71</cy>
+      </node>
+      <node id="136" type="1">
+        <cx>13.44</cx>
+        <cy>108.43</cy>
+      </node>
+      <node id="137" type="1">
+        <cx>112.1</cx>
+        <cy>90.27</cy>
+      </node>
+      <node id="138" type="1">
+        <cx>57.61</cx>
+        <cy>111.02</cy>
+      </node>
+      <node id="139" type="1">
+        <cx>116.13</cx>
+        <cy>5.13</cy>
+      </node>
+      <node id="140" type="1">
+        <cx>90.44</cx>
+        <cy>67.08</cy>
+      </node>
+      <node id="141" type="1">
+        <cx>43.91</cx>
+        <cy>68.32</cy>
+      </node>
+      <node id="142" type="1">
+        <cx>118.12</cx>
+        <cy>100.15</cy>
+      </node>
+      <node id="143" type="1">
+        <cx>78.15</cx>
+        <cy>28.35</cy>
+      </node>
+      <node id="144" type="1">
+        <cx>46.77</cx>
+        <cy>26.55</cy>
+      </node>
+      <node id="145" type="1">
+        <cx>50.46</cx>
+        <cy>60.93</cy>
+      </node>
+      <node id="146" type="1">
+        <cx>97.13</cx>
+        <cy>99.68</cy>
+      </node>
+      <node id="147" type="1">
+        <cx>5.43</cx>
+        <cy>89.71</cy>
+      </node>
+      <node id="148" type="1">
+        <cx>33.75</cx>
+        <cy>24.13</cy>
+      </node>
+      <node id="149" type="1">
+        <cx>85.08</cx>
+        <cy>43.94</cy>
+      </node>
+      <node id="150" type="1">
+        <cx>99.72</cx>
+        <cy>34.67</cy>
+      </node>
+      <node id="151" type="1">
+        <cx>27.94</cx>
+        <cy>52.32</cy>
+      </node>
+      <node id="152" type="1">
+        <cx>110.59</cx>
+        <cy>96.72</cy>
+      </node>
+      <node id="153" type="1">
+        <cx>106.33</cx>
+        <cy>115.97</cy>
+      </node>
+      <node id="154" type="1">
+        <cx>46.98</cx>
+        <cy>101.14</cy>
+      </node>
+      <node id="155" type="1">
+        <cx>78.41</cx>
+        <cy>41.16</cy>
+      </node>
+      <node id="156" type="1">
+        <cx>15.19</cx>
+        <cy>95.18</cy>
+      </node>
+      <node id="157" type="1">
+        <cx>28.09</cx>
+        <cy>63.77</cy>
+      </node>
+      <node id="158" type="1">
+        <cx>18.81</cx>
+        <cy>115.13</cy>
+      </node>
+      <node id="159" type="1">
+        <cx>46.4</cx>
+        <cy>62.62</cy>
+      </node>
+      <node id="160" type="1">
+        <cx>41.44</cx>
+        <cy>102.85</cy>
+      </node>
+      <node id="161" type="2">
+        <cx>60.9</cx>
+        <cy>68.26</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="162" type="2">
+        <cx>56.4</cx>
+        <cy>32.22</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="163" type="2">
+        <cx>46.51</cx>
+        <cy>67.19</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="164" type="2">
+        <cx>17.63</cx>
+        <cy>100.24</cy>
+        <custom>
+          <cs_type>fast</cs_type>
+        </custom>
+      </node>
+      <node id="165" type="2">
+        <cx>98.41</cx>
+        <cy>40.59</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="166" type="2">
+        <cx>108.4</cx>
+        <cy>93.43</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="167" type="2">
+        <cx>13.94</cx>
+        <cy>77.17</cy>
+        <custom>
+          <cs_type>fast</cs_type>
+        </custom>
+      </node>
+      <node id="168" type="2">
+        <cx>99.17</cx>
+        <cy>73.62</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="169" type="2">
+        <cx>88.64</cx>
+        <cy>26.23</cy>
+        <custom>
+          <cs_type>normal</cs_type>
+        </custom>
+      </node>
+      <node id="170" type="2">
+        <cx>97.16</cx>
+        <cy>99.92</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="171" type="2">
+        <cx>95.09</cx>
+        <cy>28.16</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="172" type="2">
+        <cx>102.21</cx>
+        <cy>90.04</cy>
+        <custom>
+          <cs_type>normal</cs_type>
+        </custom>
+      </node>
+      <node id="173" type="2">
+        <cx>34.45</cx>
+        <cy>12.84</cy>
+        <custom>
+          <cs_type>fast</cs_type>
+        </custom>
+      </node>
+      <node id="174" type="2">
+        <cx>39.3</cx>
+        <cy>43.48</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="175" type="2">
+        <cx>16.7</cx>
+        <cy>13.26</cy>
+        <custom>
+          <cs_type>fast</cs_type>
+        </custom>
+      </node>
+      <node id="176" type="2">
+        <cx>65.44</cx>
+        <cy>11.91</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+    </nodes>
+    <euclidean />
+    <decimals>14</decimals>
+  </network>
+  <fleet>
+    <vehicle_profile type="0">
+      <departure_node>0</departure_node>
+      <arrival_node>0</arrival_node>
+      <max_travel_time>10</max_travel_time>
+      <speed_factor>40</speed_factor>
+      <custom>
+        <consumption_rate>125</consumption_rate>
+        <battery_capacity>16000</battery_capacity>
+        <charging_functions>
+          <function cs_type="fast">
+            <breakpoint>
+              <battery_level>0</battery_level>
+              <charging_time>0.0</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>13600</battery_level>
+              <charging_time>0.31</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>15200</battery_level>
+              <charging_time>0.39</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>16000</battery_level>
+              <charging_time>0.51</charging_time>
+            </breakpoint>
+          </function>
+          <function cs_type="normal">
+            <breakpoint>
+              <battery_level>0</battery_level>
+              <charging_time>0.0</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>13600</battery_level>
+              <charging_time>0.62</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>15200</battery_level>
+              <charging_time>0.77</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>16000</battery_level>
+              <charging_time>1.01</charging_time>
+            </breakpoint>
+          </function>
+          <function cs_type="slow">
+            <breakpoint>
+              <battery_level>0</battery_level>
+              <charging_time>0.0</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>13600</battery_level>
+              <charging_time>1.26</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>15200</battery_level>
+              <charging_time>1.54</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>16000</battery_level>
+              <charging_time>2.04</charging_time>
+            </breakpoint>
+          </function>
+        </charging_functions>
+      </custom>
+    </vehicle_profile>
+  </fleet>
+  <requests>
+    <request id="1" node="1">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="2" node="2">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="3" node="3">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="4" node="4">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="5" node="5">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="6" node="6">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="7" node="7">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="8" node="8">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="9" node="9">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="10" node="10">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="11" node="11">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="12" node="12">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="13" node="13">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="14" node="14">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="15" node="15">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="16" node="16">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="17" node="17">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="18" node="18">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="19" node="19">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="20" node="20">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="21" node="21">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="22" node="22">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="23" node="23">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="24" node="24">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="25" node="25">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="26" node="26">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="27" node="27">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="28" node="28">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="29" node="29">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="30" node="30">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="31" node="31">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="32" node="32">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="33" node="33">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="34" node="34">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="35" node="35">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="36" node="36">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="37" node="37">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="38" node="38">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="39" node="39">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="40" node="40">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="41" node="41">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="42" node="42">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="43" node="43">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="44" node="44">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="45" node="45">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="46" node="46">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="47" node="47">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="48" node="48">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="49" node="49">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="50" node="50">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="51" node="51">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="52" node="52">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="53" node="53">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="54" node="54">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="55" node="55">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="56" node="56">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="57" node="57">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="58" node="58">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="59" node="59">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="60" node="60">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="61" node="61">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="62" node="62">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="63" node="63">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="64" node="64">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="65" node="65">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="66" node="66">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="67" node="67">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="68" node="68">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="69" node="69">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="70" node="70">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="71" node="71">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="72" node="72">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="73" node="73">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="74" node="74">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="75" node="75">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="76" node="76">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="77" node="77">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="78" node="78">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="79" node="79">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="80" node="80">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="81" node="81">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="82" node="82">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="83" node="83">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="84" node="84">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="85" node="85">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="86" node="86">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="87" node="87">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="88" node="88">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="89" node="89">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="90" node="90">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="91" node="91">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="92" node="92">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="93" node="93">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="94" node="94">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="95" node="95">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="96" node="96">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="97" node="97">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="98" node="98">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="99" node="99">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="100" node="100">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="101" node="101">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="102" node="102">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="103" node="103">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="104" node="104">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="105" node="105">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="106" node="106">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="107" node="107">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="108" node="108">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="109" node="109">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="110" node="110">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="111" node="111">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="112" node="112">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="113" node="113">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="114" node="114">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="115" node="115">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="116" node="116">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="117" node="117">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="118" node="118">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="119" node="119">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="120" node="120">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="121" node="121">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="122" node="122">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="123" node="123">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="124" node="124">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="125" node="125">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="126" node="126">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="127" node="127">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="128" node="128">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="129" node="129">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="130" node="130">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="131" node="131">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="132" node="132">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="133" node="133">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="134" node="134">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="135" node="135">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="136" node="136">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="137" node="137">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="138" node="138">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="139" node="139">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="140" node="140">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="141" node="141">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="142" node="142">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="143" node="143">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="144" node="144">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="145" node="145">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="146" node="146">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="147" node="147">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="148" node="148">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="149" node="149">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="150" node="150">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="151" node="151">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="152" node="152">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="153" node="153">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="154" node="154">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="155" node="155">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="156" node="156">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="157" node="157">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="158" node="158">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="159" node="159">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="160" node="160">
+      <service_time>0.5</service_time>
+    </request>
+  </requests>
+</instance>

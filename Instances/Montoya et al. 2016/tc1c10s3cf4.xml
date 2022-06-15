@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+  <info>
+    <dataset>Montoya et al. 2016</dataset>
+    <name>tc1c10s3cf4</name>
+  </info>
+  <network>
+    <nodes>
+      <node id="0" type="0">
+        <cx>31.02</cx>
+        <cy>72.32</cy>
+      </node>
+      <node id="1" type="1">
+        <cx>77.52</cx>
+        <cy>0.81</cy>
+      </node>
+      <node id="2" type="1">
+        <cx>89.43</cx>
+        <cy>17.03</cy>
+      </node>
+      <node id="3" type="1">
+        <cx>119.95</cx>
+        <cy>119.86</cy>
+      </node>
+      <node id="4" type="1">
+        <cx>75.18</cx>
+        <cy>3.56</cy>
+      </node>
+      <node id="5" type="1">
+        <cx>60.36</cx>
+        <cy>98.15</cy>
+      </node>
+      <node id="6" type="1">
+        <cx>4.13</cx>
+        <cy>50.82</cy>
+      </node>
+      <node id="7" type="1">
+        <cx>65.84</cx>
+        <cy>68.06</cy>
+      </node>
+      <node id="8" type="1">
+        <cx>86.96</cx>
+        <cy>22.61</cy>
+      </node>
+      <node id="9" type="1">
+        <cx>100.23</cx>
+        <cy>119.56</cy>
+      </node>
+      <node id="10" type="1">
+        <cx>91.16</cx>
+        <cy>54.37</cy>
+      </node>
+      <node id="11" type="2">
+        <cx>87.06</cx>
+        <cy>72.6</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+      <node id="12" type="2">
+        <cx>66.26</cx>
+        <cy>20.29</cy>
+        <custom>
+          <cs_type>fast</cs_type>
+        </custom>
+      </node>
+      <node id="13" type="2">
+        <cx>55.26</cx>
+        <cy>105.32</cy>
+        <custom>
+          <cs_type>slow</cs_type>
+        </custom>
+      </node>
+    </nodes>
+    <euclidean />
+    <decimals>14</decimals>
+  </network>
+  <fleet>
+    <vehicle_profile type="0">
+      <departure_node>0</departure_node>
+      <arrival_node>0</arrival_node>
+      <max_travel_time>10</max_travel_time>
+      <speed_factor>40</speed_factor>
+      <custom>
+        <consumption_rate>125</consumption_rate>
+        <battery_capacity>16000</battery_capacity>
+        <charging_functions>
+          <function cs_type="fast">
+            <breakpoint>
+              <battery_level>0</battery_level>
+              <charging_time>0.0</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>13600</battery_level>
+              <charging_time>0.31</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>15200</battery_level>
+              <charging_time>0.39</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>16000</battery_level>
+              <charging_time>0.51</charging_time>
+            </breakpoint>
+          </function>
+          <function cs_type="slow">
+            <breakpoint>
+              <battery_level>0</battery_level>
+              <charging_time>0.0</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>13600</battery_level>
+              <charging_time>1.26</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>15200</battery_level>
+              <charging_time>1.54</charging_time>
+            </breakpoint>
+            <breakpoint>
+              <battery_level>16000</battery_level>
+              <charging_time>2.04</charging_time>
+            </breakpoint>
+          </function>
+        </charging_functions>
+      </custom>
+    </vehicle_profile>
+  </fleet>
+  <requests>
+    <request id="1" node="1">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="2" node="2">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="3" node="3">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="4" node="4">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="5" node="5">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="6" node="6">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="7" node="7">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="8" node="8">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="9" node="9">
+      <service_time>0.5</service_time>
+    </request>
+    <request id="10" node="10">
+      <service_time>0.5</service_time>
+    </request>
+  </requests>
+</instance>
